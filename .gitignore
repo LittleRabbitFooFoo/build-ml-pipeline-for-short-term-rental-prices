@@ -114,3 +114,4 @@ outputs/
 random_forest_dir/
 multirun/
 clean_sample.csv
+rf_config.json
